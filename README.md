@@ -1,17 +1,32 @@
-Student Management System
+Student Management System (Python)
 
-A simple CLI based Student Management System built using Python.
-This project uses OOP and file handling concepts.
+This is a simple CLI based Student Management System built using Python.
+I created this project to understand Object Oriented Programming and
+File Handling concepts in a practical way.
 
 Features
-- Add student
-- View students
-- Search student
-- Delete student
+- Add new student
+- View all students
+- Search student by roll number
+- Delete student record
+- Data stored permanently in a text file
 
 Concepts Used
-- Python OOP
-- File Handling
+- Python Classes and Objects
+- Constructor (__init__)
+- File Handling (read, write, append)
+- Menu driven program
+- Basic error handling
+
+How to Run
+1. Install Python
+2. Run the file using:
+   python student_management.py
+
+Future Improvements
+- Update student details
+- Add marks and grades
+- Convert to GUI application
 
 Author
 Kanchan Shakya
